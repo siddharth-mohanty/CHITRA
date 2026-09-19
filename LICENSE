@@ -1,21 +1,54 @@
-MIT License
+CHITRA – SOFTWARE USE LICENSE
 
-Copyright (c) 2025 CHITRA Project Contributors
+Copyright (c) 2026 Siddharth Mohanty
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. GRANT OF USE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted to any individual to download and use the CHITRA
+software for lawful purposes, including personal, educational, research,
+cybersecurity, and digital forensics activities.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICTIONS
+
+Except for the permission expressly granted above, no rights are granted.
+
+You may NOT:
+
+- Copy or reproduce the software for redistribution.
+- Modify, alter, or create derivative versions of the software.
+- Redistribute, republish, or upload the software to another platform.
+- Sell, sublicense, rent, lease, or commercially distribute the software.
+- Claim the software or its original work as your own.
+- Include the software in another software product or package without
+  written permission from the copyright holder.
+
+3. COPYRIGHT
+
+All rights, title, and interest in CHITRA and its original source code,
+compiled binaries, documentation, and associated materials remain with
+the copyright holder.
+
+The CHITRA source code is proprietary and is not included with this
+release.
+
+4. DISCLAIMER
+
+CHITRA is provided "AS IS", without warranty of any kind, express or
+implied. The copyright holder shall not be liable for any claim, damages,
+or other liability arising from the use of the software, to the extent
+permitted by applicable law.
+
+5. LAWFUL USE
+
+CHITRA may only be used for lawful and authorized activities. Users are
+responsible for obtaining appropriate authorization before investigating,
+scanning, monitoring, or analyzing systems or devices that they do not own
+or have explicit permission to examine.
+
+6. RESERVATION OF RIGHTS
+
+Any rights not expressly granted by this license are reserved by the
+copyright holder.
+
+For permissions beyond those granted in this license, contact the
+copyright holder.
