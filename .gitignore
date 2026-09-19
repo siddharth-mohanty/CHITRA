@@ -1,0 +1,22 @@
+# Auto-downloaded ADB tools (regenerated automatically on first run)
+platform-tools-local/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
